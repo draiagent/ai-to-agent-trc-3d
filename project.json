@@ -1,0 +1,20 @@
+{
+  "name": "ai-to-agent-trc-3d",
+  "version": "0.1.0",
+  "date": "2026-10-17",
+  "type": "methodology",
+  "status": "teaching-and-pilot",
+  "author_brand": "AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent | 2027 AI to AGI Agent",
+  "license": "reserved",
+  "copyright_holder": "AI Coach 益力康陳董",
+  "visibility": "public",
+  "description": "TRC-3D 人機協作三維決策模型：任務完成、總成本可控，銜接 VAD／VAC。",
+  "topics": [
+    "ai-to-agent",
+    "trc-3d",
+    "methodology",
+    "human-ai-collaboration",
+    "task-economics"
+  ],
+  "website": null
+}
